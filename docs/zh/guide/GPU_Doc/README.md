@@ -74,7 +74,7 @@ description: 一份 GPU 服务器使用指南
 
 ### [MobaXterm](https://mobaxterm.mobatek.net/)
 
-![image-20201210173417919](https://i.loli.net/2020/12/10/oXrPuthdK1q7mA8.png)
+![image-20201210183111311](https://i.loli.net/2020/12/10/VJPf5LgYZoThWHX.png)
 
 #### 下载地址
 
