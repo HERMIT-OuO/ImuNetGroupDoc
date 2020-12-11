@@ -36,11 +36,15 @@ module.exports = {
                         text: "Documentation",
                         items: [
                             {
-                                text: "Server",
+                                text: "Guidance",
                                 items: [
                                     {
-                                        text: "GPU Server",
+                                        text: "GPU Server guidance",
                                         link: "/zh/guide/GPU_Doc/",
+                                    },
+                                    {
+                                        text: "LTE guidance",
+                                        link: "/zh/guide/LTE/",
                                     },
                                 ],
                             },
@@ -66,11 +70,15 @@ module.exports = {
                         text: "文档",
                         items: [
                             {
-                                text: "服务器",
+                                text: "使用指南",
                                 items: [
                                     {
-                                        text: "GPU 服务器",
+                                        text: "GPU 服务器使用指南",
                                         link: "/zh/guide/GPU_Doc/",
+                                    },
+                                    {
+                                        text: "LTE 服务使用指南",
+                                        link: "/zh/guide/LTE/",
                                     },
                                 ],
                             },
